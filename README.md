@@ -41,9 +41,6 @@ http://127.0.0.1:4570
 ### Python 3.11
 
 Python versions above 3.11 are not recommended.
-
-Download:
-
 https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe
 
 ---
@@ -51,6 +48,7 @@ https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe
 ### ffmpeg
 
 Used for converting WAV audio files to 16 kHz if required.
+https://www.ffmpeg.org/download.html#build-windows
 
 ---
 
@@ -63,7 +61,6 @@ https://huggingface.co/alphacep/vosk-model-ru
 ### NSSM
 
 Required version: 2.24.101 or newer
-
 https://nssm.cc/download
 
 ---
